@@ -1,0 +1,136 @@
+a{
+    color:#AAA;
+    text-decoration:none;}
+  
+ul{
+    list-style:none;
+  }
+
+body{
+	font:17px/1.5em "宋体",sans-serif;
+	background-color:#FFB;
+	margin:0px;
+}
+
+h1{
+	font-size:22px;
+}
+
+h2{
+	font-size:15px;color:#AAA;}
+
+
+.space{
+	margin-right:1em;}
+
+.div1{
+	background-color:black;
+	height:59px;
+	width:100%;
+	}
+
+.div2{
+	float:right;
+	margin-top:20px;
+}
+
+
+.div3{
+	background-color:#FFF;
+	padding:10px;
+	margin:10px;
+}
+
+.div4{
+	text-align:center;
+	border:5px #FFB dotted;
+	width:220px;
+	height:220px;
+	margin:20px;
+
+}
+
+
+
+.div6{
+    position:relative;
+	background-color:#FFF;
+	padding:10px;
+	margin:10px;
+	
+}
+
+table{
+	border-collapse:collapse
+}
+
+table tr td,th{
+	border:3px dotted #FB6;
+	width:500px;
+	       }
+
+th{
+	font-size:15px;
+	background-color:#FF3;
+}
+
+
+td{
+	text-align:center;
+	background-color:#FF7;
+}
+
+label{
+	font-size:12px;
+}
+
+textarea{
+	height:100px;
+	width:300px;
+	font-size:15px;
+}
+
+
+.submit{
+	text-align: center;
+     height: 50px;
+     width: 100%;
+     background-color: #FC2;
+     }
+
+.type1{
+	 color:#AAA
+}
+
+.type2{
+	font-size:12px;color:#AAA;
+	display:block;
+}
+
+.type3{font-size:12px;
+	color:#AAA;
+	padding-left:1em;
+
+}
+
+.type4{
+	font-size:18px;
+	display:block;
+}
+
+.type5{
+	 vertical-align:top
+}
+
+form{
+	text-align:center;
+}
+
+p{  
+	margin:0em;
+	line-height:1.5em;
+}
+
+
+
+
